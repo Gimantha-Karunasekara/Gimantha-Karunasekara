@@ -1,7 +1,10 @@
+![logo](https://github.com/Gimantha-Karunasekara/Gimantha-Karunasekara/blob/main/Linkedin%20-%20Gimantha%20Karunasekara.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Gimantha Karunasekara</h1>
 <h3 align="center">Undergraduate / Full-Stack Developer</h3>
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gimantha-karunasekara&label=Profile%20views&color=57aeff&style=flat" alt="gimantha-karunasekara" /> </p>
+
+<hr class="rounded">
 
 
 <p align="center" style="margin:10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimantha-karunasekara&show_icons=true&locale=en&theme=midnight-purple" alt="gimantha-karunasekara" /></p>
@@ -42,5 +45,4 @@
 <h3 align="center"><b>Support</b></h3>
 <p align="center"><a href="https://www.buymeacoffee.com/gimantha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gimantha" /></a></p>
 
-<hr class="rounded">
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gimantha Karunasekara</h1>
 <h3 align="center">Undergraduate / Full-Stack Developer</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gimantha-karunasekara&label=Profile%20views&color=57aeff&style=flat" alt="gimantha-karunasekara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gimantha-karunasekara&label=Profile%20views&color=9745f5&style=flat" alt="gimantha-karunasekara" /> </p>
 
 <hr class="rounded">
 

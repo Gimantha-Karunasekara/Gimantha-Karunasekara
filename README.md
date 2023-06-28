@@ -21,7 +21,7 @@
 
 <div align="center">
 
-👨‍💻 All of my projects are available at [gimantha.me](gimantha.me)
+👨‍💻 All of my projects are available at [gimantha.me](https://www.gimantha.me/)
 
 📫 How to reach me **gimantha.contact@gmail.com**
 </div>

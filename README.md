@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gimantha-karunasekara&label=Profile%20views&color=57aeff&style=flat" alt="gimantha-karunasekara" /> </p>
 
-<div style="display:flex; flex-direction:column; align-items:center; ">
+<span style="display:flex; flex-direction:column; align-items:center;">
 
 <p style="margin:10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimantha-karunasekara&show_icons=true&locale=en&theme=midnight-purple" alt="gimantha-karunasekara" /></p>
 
@@ -11,7 +11,7 @@
 
 <p style="margin:10px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gimantha-karunasekara&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="gimantha-karunasekara" /></p>
 
-</div>
+</span>
 
 <p align="center" style="background: #000; border: 1px solid #9745f5; border-radius: 10px; padding: 20px; margin: 20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gimantha-karunasekara" alt="gimantha-karunasekara" /></a> </p>
 

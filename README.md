@@ -5,7 +5,7 @@
 
 <span style="display:flex; flex-direction:column; align-items:center;">
 
-<p style="margin:10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimantha-karunasekara&show_icons=true&locale=en&theme=midnight-purple" alt="gimantha-karunasekara" /></p>
+<p align="center" style="margin:10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimantha-karunasekara&show_icons=true&locale=en&theme=midnight-purple" alt="gimantha-karunasekara" /></p>
 
 <p style="margin:10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gimantha-karunasekara&theme=midnight-purple" alt="gimantha-karunasekara" /></p>
 

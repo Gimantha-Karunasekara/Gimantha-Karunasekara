@@ -1,4 +1,4 @@
-![logo](https://github.com/Gimantha-Karunasekara/Gimantha-Karunasekara/blob/main/Linkedin%20-%20Gimantha%20Karunasekara.gif?raw=true)
+![logo](https://github.com/Gimantha-Karunasekara/Gimantha-Karunasekara/blob/main/banner.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Gimantha Karunasekara</h1>
 <h3 align="center">Undergraduate / Full-Stack Developer</h3>
 <br>

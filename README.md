@@ -1,6 +1,6 @@
 ![logo](https://github.com/Gimantha-Karunasekara/Gimantha-Karunasekara/blob/main/banner.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Gimantha Karunasekara</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gimantha-karunasekara&label=Profile%20views&color=9745f5&style=flat" alt="gimantha-karunasekara" /> </p>
 
